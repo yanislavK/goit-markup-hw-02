@@ -1,0 +1,147 @@
+.logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+.logo-blue {
+width: 44px;
+    height: 22px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    /* IRIS */
+
+    color: #4D5AE5;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+.page-header{
+    background-color: #FFFFFF;
+}
+
+ .header-link{
+    text-decoration: none;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.header-link:hover{
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #404BBF;
+}
+.email{font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.02em;
+
+    /* SLATE */
+
+    color: #434455;
+    
+}
+
+.email:hover {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+    
+        letter-spacing: 0.02em;
+    
+        /* OCEAN */
+    
+        color: #404BBF;
+}
+.number{
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;    
+        color: #434455;
+}
+.body{
+    font-family: 'Roboto';
+}
+
+.page-footer{
+   background-color:#2E2F42;
+}
+.footer-logo{
+    width: 44px;
+    height: 22px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+}
+.hero-title{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 60px; 
+}
+.order-button{
+    width: 169px;
+        height: 56px;
+        left: 636px;
+        top: 428px;
+        background: #4D5AE5;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px;  
+         font-weight: 500;
+        font-size: 16px;
+         line-height: 0,67px;
+         color: #FFFFFF;
+         cursor: pointer;
+}
+.order-button:hover{
+        background: #404BBF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px
+        
+}
+
+.body {}
+
+.page-header {}
+
