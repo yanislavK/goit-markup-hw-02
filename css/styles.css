@@ -3,7 +3,7 @@
   --action-color: #404bbf;
   --primary-bg-color: #ffffff;
   --secondary-bg-color: ##f4f4fd;
-  --hero-color: ##2e2f42;
+  --hero-color: #2e2f42;
 }
 
 body {
@@ -85,7 +85,7 @@ body {
 
 /* hero */
 .hero {
-  var: var(--hero-color);
+  background-color: var(--hero-color);
 }
 
 .hero-title {
@@ -123,6 +123,7 @@ body {
 }
 
 .advantage-title {
+  display: none;
 }
 
 .advantage-list {
@@ -250,6 +251,7 @@ footer {
 }
 
 .projects-title {
+  display: none;
 }
 
 .projects-list {
@@ -284,6 +286,7 @@ footer {
 }
 
 .jobs-title {
+  display: none;
 }
 
 .jobs-list {
